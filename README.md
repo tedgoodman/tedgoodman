@@ -17,13 +17,13 @@ Here on GitHub, I share:
 
 Currently focusing on backend development with:
 
-<p align="center">
+<p align="left">
   <img src="assets/current-stack-php-laravel-mysql.png" width="60%">
 </p>
 
 I’m also comfortable working with:
 
-<p align="center">
+<p align="left">
   <img src="assets/technologies-comfortable-with.png" width="60%">
 </p>
 
@@ -42,7 +42,7 @@ Before focusing mainly on software engineering, I spent a lot of time working wi
 
 Tools I can work with comfortably:
 
-<p align="center">
+<p align="left">
   <img src="assets/graphic-design-suite.png" width="60%">
 </p>
 
