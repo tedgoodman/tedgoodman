@@ -1,4 +1,4 @@
-## Hi, I'm Abdelrahman Mustafa 👋
+# Hi, I'm Abdelrahman Mustafa 👋
 
 Backend-focused software engineering student based in Cairo, Egypt.
 
@@ -23,9 +23,8 @@ Currently focusing on backend development with:
 
 I’m also comfortable working with:
 
-<p align="center">
-  <img src="assets/technologies-comfortable-with.png" width="60%">
-</p>
+- C/C++
+- Python
 
 In the future, I plan to explore:
 
