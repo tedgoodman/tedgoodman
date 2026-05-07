@@ -7,7 +7,7 @@ I've been fascinated by computer science and understanding how systems work sinc
 Here on GitHub, I share:
 
 * Projects and experiments
-* University and self-study notes
+* Self-study notes
 * Labs and learning resources
 * Backend development practice
 
@@ -18,14 +18,14 @@ Here on GitHub, I share:
 Currently focusing on backend development with:
 
 <p align="center">
-  <img src="assets/current-stack-php-laravel-mysql.png" width="100%">
+  <img src="assets/current-stack-php-laravel-mysql.png" width="90%">
 </p>
 
 I’m also comfortable working with:
 
-* C
-* C++
-* Python
+<p align="center">
+  <img src="assets/technologies-comfortable-with.png" width="90%">
+</p>
 
 In the future, I plan to explore:
 
@@ -43,7 +43,7 @@ Before focusing mainly on software engineering, I spent a lot of time working wi
 Tools I can work with comfortably:
 
 <p align="center">
-  <img src="assets/graphic-design-suite.png" width="100%">
+  <img src="assets/graphic-design-suite.png" width="90%">
 </p>
 
 ---
