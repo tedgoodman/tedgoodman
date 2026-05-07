@@ -18,13 +18,13 @@ Here on GitHub, I share:
 Currently focusing on backend development with:
 
 <p align="center">
-  <img src="assets/current-stack-php-laravel-mysql.png" width="90%">
+  <img src="assets/current-stack-php-laravel-mysql.png" width="60%">
 </p>
 
 I’m also comfortable working with:
 
 <p align="center">
-  <img src="assets/technologies-comfortable-with.png" width="90%">
+  <img src="assets/technologies-comfortable-with.png" width="60%">
 </p>
 
 In the future, I plan to explore:
@@ -43,7 +43,7 @@ Before focusing mainly on software engineering, I spent a lot of time working wi
 Tools I can work with comfortably:
 
 <p align="center">
-  <img src="assets/graphic-design-suite.png" width="90%">
+  <img src="assets/graphic-design-suite.png" width="60%">
 </p>
 
 ---
