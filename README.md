@@ -17,9 +17,9 @@ Here on GitHub, I share:
 
 Currently focusing on backend development with:
 
-* PHP
-* Laravel
-* MySQL
+<p align="center">
+  <img src="assets/current-stack-php-laravel-mysql.png" width="100%">
+</p>
 
 I’m also comfortable working with:
 
@@ -42,11 +42,9 @@ Before focusing mainly on software engineering, I spent a lot of time working wi
 
 Tools I can work with comfortably:
 
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe Premiere Pro
-* CapCut
-* Figma
+<p align="center">
+  <img src="assets/graphic-design-suite.png" width="100%">
+</p>
 
 ---
 
